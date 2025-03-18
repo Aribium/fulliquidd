@@ -9,11 +9,9 @@ background-color: royalblue;
 h1 {
 color: #d29898;
 }
-text{
-color:aquamarine
-}
+
 p {
-color: #000000;
+color: #d29898;
 line-height: 1.5;
 }
 
@@ -26,15 +24,15 @@ overflow: hidden;
 .header {
 background: #1395e7;
 color: #ffffff;
-padding: 20px 0;
+padding: 20px 20px 20px 20px;
 text-align: center;
 }
 
 .footer {
-background: #457492;
-color: #ffffff;
+background: rgb(12, 200, 221);
+text-decoration: #47e39f;
 text-align: center;
-padding: 10px 0;
+padding: 100px 0;
 position: relative;
 bottom: 0;
 width: 100%;
