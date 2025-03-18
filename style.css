@@ -1,0 +1,41 @@
+/* This file contains the CSS styles for the project. */
+body{
+    font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: royalblue;
+}
+
+h1 {
+color: #d29898;
+}
+text{
+color:aquamarine
+}
+p {
+color: #000000;
+line-height: 1.5;
+}
+
+.container {
+width: 80%;
+margin: auto;
+overflow: hidden;
+}
+
+.header {
+background: #1395e7;
+color: #ffffff;
+padding: 20px 0;
+text-align: center;
+}
+
+.footer {
+background: #457492;
+color: #ffffff;
+text-align: center;
+padding: 10px 0;
+position: relative;
+bottom: 0;
+width: 100%;
+}
