@@ -22,7 +22,9 @@ overflow: hidden;
 }
 
 .header {
+display: flex;
 justify-content: center;
+align-items: center;
     background: #1395e7;
 color: #ffffff;
 text-align: center;
